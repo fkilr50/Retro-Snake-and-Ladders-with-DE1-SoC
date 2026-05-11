@@ -1,0 +1,18 @@
+# Intel FPGA Monitor Program / ARM build outputs
+*.axf
+*.srec
+*.o
+*.objdump
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
